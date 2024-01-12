@@ -51,7 +51,7 @@ nav a:hover {
     text-align: center; /* Centraliza o texto */
     margin: 0;
     font-size: 150px; /* Aumenta o tamanho da fonte */
-    background-image: url('imagens/topo.png'); /* Substitua pelo caminho da sua imagem */
+    background-image: url('imagens/topo.jpg'); /* Substitua pelo caminho da sua imagem */
     background-size: 100%; /* Ajusta o tamanho da imagem para cobrir completamente o elemento */
     color: rgb(255, 255, 0); /* Define a cor do texto para branco, para melhor legibilidade na imagem de fundo */
     background-position: center center; /* Centraliza a imagem horizontal e verticalmente */
